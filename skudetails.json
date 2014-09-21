@@ -1,6 +1,4 @@
 {
-	"application":"com.skubit.android.example",
-	"productId":"abc",
 	"type":"buy_now",
 	"satoshi":500,
 	"title":"blah",
